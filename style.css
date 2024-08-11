@@ -43,14 +43,14 @@ img {
 }
 
 section {
-    padding: 3rem 0 2rem;
+    padding: 3.1rem 0 2rem;
 }
 
 .container {
     max-width: 1400px;
     margin: auto;
     width: 100%;
-    gap: 16rem;
+    gap: 15rem;
 }
 
 header {
@@ -67,7 +67,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 23px 0;
 }
 
 .logo img {
