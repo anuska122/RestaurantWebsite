@@ -17,7 +17,7 @@
     --container-color: #efe8e0;
     --red: #a72e1b;
     --bg-color: #fff;
-    --text-alter-color: #94908e;
+    --text-alter-color: #9a9694;
     --font-family-1: "Raleway", sans-serif;
 }
 
@@ -196,7 +196,7 @@ header {
 
 .btn {
     max-width: 160px;
-    padding: 15px 10px;
+    padding: 14px 10px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -232,7 +232,7 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(auto, 310px));
     justify-content: center;
     gap: 1rem;
-    padding: 2rem 0;
+    padding: 2.1rem 0;
     border-bottom: 1px solid rgb(18 18 18 / 20%);
 }
 
@@ -247,7 +247,7 @@ header {
 }
 
 .feature-text h3 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
@@ -305,8 +305,8 @@ header {
 .item-box {
     position: relative;
     background: var(--bg-color);
-    padding: 24px 14px;
-    border-radius: 8px;
+    padding: 25px 15px;
+    border-radius: 8.1px;
     border: 1px solid rgb(75 18 4 / 10%);
     display: flex;
     flex-direction: column;
@@ -320,7 +320,7 @@ header {
     top: 14px;
     background: var(--text-color);
     color: var(--bg-color);
-    font-size: 12px;
+    font-size: 13px;
     padding: 2px 8px;
     border-radius: 4px;
 
